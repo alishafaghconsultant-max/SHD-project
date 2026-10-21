@@ -24,6 +24,4 @@ The SHD framework operates as a sequential 3-layer pipeline:
 ⚠️ Note on Technical Specifications
  
 The detailed technical specifications and the comprehensive Ethical Assessment Framework are currently under peer review. The MVP codebase will be added in phases.
- 
-🔗 Links
-• Read the Concept Paper on SSRN 
+* Read the Concept Paper on SSRN(https://ssrn.com/abstract=5398212)
